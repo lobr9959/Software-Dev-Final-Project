@@ -1,2 +1,5 @@
 # Software-Dev-Final-Project
-Budget Tracker(Group 4)
+Team number: 4
+Team Name: The Budget Brigadiers 
+Team Members: Will Davidson, Logan Brown, Diti Gupta, Jillian, Adam Fox, Rishi
+Application Name: Budget Tracker
